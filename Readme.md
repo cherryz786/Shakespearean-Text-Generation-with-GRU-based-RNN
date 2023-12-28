@@ -1,4 +1,7 @@
-# Project Title: Shakespearean Text Generation with GRU-based RNN
+# Shakespearean Text Generation with GRU-based RNN
+
+![cover](https://github.com/cherryz786/Shakespearean-Text-Generation-with-GRU-based-RNN/assets/71602299/c29e0ad3-d819-40a4-8120-2ae1d5b7ef7b)
+(using RNN)
 
 ## Overview
 
@@ -56,6 +59,8 @@ Total params: 3,452,820
 Trainable params: 3,452,820
 Non-trainable params: 0
 ```
+
+![GRU](https://github.com/cherryz786/Shakespearean-Text-Generation-with-GRU-based-RNN/assets/71602299/64339717-cfbf-4784-bf3f-d269f66f7c69)
 
 ### Step 5: Training the Model
 
