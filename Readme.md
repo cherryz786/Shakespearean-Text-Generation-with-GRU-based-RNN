@@ -74,8 +74,8 @@ A custom function is created to generate text from a given prompt using the trai
 
 To run the project, follow these steps:
 
-1.Download the dataset from here.
-2.Execute the provided Jupyter Notebook or Python script.
+1. Download the dataset from here.
+2. Execute the provided Jupyter Notebook or Python script.
 
 Feel free to experiment with different parameters and model architectures to enhance text generation capabilities.
 
