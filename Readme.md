@@ -40,7 +40,7 @@ Batches are created by shuffling the sequences into a random order to prevent ov
 
 ### Step 4: Creating the Model
 
-The model is built using LSTM-based architecture with additional features, including an embedding layer and two LSTM layers. The embedding layer serves as the input layer, mapping character indices to vectors. The model uses sparse categorical crossentropy as the loss function.
+The model is built using a GRU-based architecture with additional features, including an embedding layer. The embedding layer serves as the input layer, mapping character indices to vectors. The model uses sparse categorical crossentropy as the loss function.
 
 #### Model Architecture
 
