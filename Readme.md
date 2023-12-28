@@ -44,6 +44,8 @@ The model is built using LSTM-based architecture with additional features, inclu
 
 #### Model Architecture
 
+![GRU (2)](https://github.com/cherryz786/Shakespearean-Text-Generation-with-GRU-based-RNN/assets/71602299/41e0c258-bece-48f4-892b-06c71984bc63)
+
 ```plaintext
 Model: "sequential"
 _________________________________________________________________
@@ -59,8 +61,6 @@ Total params: 3,452,820
 Trainable params: 3,452,820
 Non-trainable params: 0
 ```
-
-![GRU](https://github.com/cherryz786/Shakespearean-Text-Generation-with-GRU-based-RNN/assets/71602299/64339717-cfbf-4784-bf3f-d269f66f7c69)
 
 ### Step 5: Training the Model
 
